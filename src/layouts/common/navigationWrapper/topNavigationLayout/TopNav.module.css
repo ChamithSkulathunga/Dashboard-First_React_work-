@@ -1,0 +1,9 @@
+.navLinkText {
+    color: black;
+    font-weight: 600;
+}
+
+.navLinkText .active {
+    color: blue;
+}
+
